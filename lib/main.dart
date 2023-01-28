@@ -5,7 +5,7 @@ import 'modules/bmi/bmi_screen.dart';
 import 'modules/counter/home-page.dart';
 import 'modules/login/login_screen.dart';
 import 'modules/messenger/messenger_screen.dart';
-import 'modules/stack_example1/stack_example1.dart';
+//import 'modules/stack_example1/stack_example1.dart';
 
 void main() {
   runApp( MyApp());
